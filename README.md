@@ -64,6 +64,13 @@ Press **F9** while standing near dropped items.
 
 Although **F8** provides continuous automatic pickup, it may cause noticeable stuttering depending on your PC and the number of nearby items.
 
+# Fire Olli
+
+## Screenshot
+
+![게임 화면](screenshots/main-screen.png)
+
+
 ## Requirements
 
 - RuneScape: Dragonwilds
