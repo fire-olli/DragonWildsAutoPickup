@@ -1,3 +1,8 @@
+## 테스트 환경
+
+- ✅ 싱글플레이에서만 테스트했습니다.
+- ⚠️ 멀티플레이에서는 테스트하지 않았습니다.
+
 # DragonWildsAutoPickup (한국어)
 
 이 모드는 RuneScape: Dragonwilds에서 바닥에 떨어진 아이템을 쉽게 획득할 수 있도록 도와주는 UE4SS 기반 Lua 모드입니다.
