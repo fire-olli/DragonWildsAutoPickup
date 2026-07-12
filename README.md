@@ -2,6 +2,31 @@
 
 A lightweight Quality-of-Life mod for **RuneScape: Dragonwilds** using **UE4SS**.
 
+> ⭐ Recommended: Press **F9** near dropped items for the smoothest experience.
+>
+> ⚠️ **F8 Auto Pickup is experimental and may cause performance stuttering.**
+
+---
+
+## Why F9?
+
+F9 performs a one-time scan only when requested.
+
+This avoids continuous scanning and provides much smoother gameplay than experimental automatic pickup.
+
+## Features
+
+✔ Manual Pickup (Recommended)
+
+✔ Auto Pickup (Experimental)
+
+✔ UE4SS Lua only
+
+✔ No original game files modified
+
+✔ Open Source
+
+
 ## Features
 
 - ✅ Manual Pickup (Recommended) - **F9**
