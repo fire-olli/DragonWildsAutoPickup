@@ -20,6 +20,16 @@ Binaries\Win64\ue4ss\Mods\
 5. F9를 눌러 주변 아이템을 획득합니다.
 
 
+## UE4SS 다운로드
+
+https://github.com/UE4SS-RE/RE-UE4SS/releases 
+위 페이지에서 
+<img width="975" height="429" alt="image" src="https://github.com/user-attachments/assets/e3f252e2-a18c-4fe6-9d8c-34a83e071534" />
+
+zDEV-UE4SS_v3.0.1-1009-gc2ac2464.zip
+
+다운로드 하시면 됩니다.
+
 
 
 
@@ -53,16 +63,6 @@ Binaries
                     └── main.lua
 ```
 \steamapps\common\RSDragonwilds\RSDragonwilds\Binaries\Win64\ue4ss\Mods\DragonwildsAutoPickup\Scripts
-
-## UE4SS 다운로드
-
-https://github.com/UE4SS-RE/RE-UE4SS/releases 
-위 페이지에서 
-<img width="975" height="429" alt="image" src="https://github.com/user-attachments/assets/e3f252e2-a18c-4fe6-9d8c-34a83e071534" />
-
-zDEV-UE4SS_v3.0.1-1009-gc2ac2464.zip
-
-다운로드 하시면 됩니다.
 
 
 ## 올바른 설치
