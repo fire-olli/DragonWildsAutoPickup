@@ -28,6 +28,7 @@ Binaries\Win64\ue4ss\Mods\
 
 ## UE4SS
 
+```text
 RuneScape Dragonwilds
 └── RSDragonwilds
     └── Binaries
@@ -38,7 +39,7 @@ RuneScape Dragonwilds
             ├── ue4ss
             └── ...
 \steamapps\common\RSDragonwilds\RSDragonwilds\Binaries\Win64\ue4ss
-
+````
 
 
 ## DragonWildsAutoPickup
