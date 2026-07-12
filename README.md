@@ -1,3 +1,11 @@
+## Tested Environment
+
+- ✅ Tested in **Single Player** only.
+- ⚠️ Multiplayer compatibility has not been tested.
+
+
+
+
 # DragonWildsAutoPickup
 
 A lightweight Quality-of-Life mod for **RuneScape: Dragonwilds** using **UE4SS**.
