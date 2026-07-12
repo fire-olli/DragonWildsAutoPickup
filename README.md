@@ -1,2 +1,48 @@
 # DragonWildsAutoPickup
-Manual pickup mod for RuneScape: Dragonwilds using UE4SS
+
+A lightweight Quality-of-Life mod for **RuneScape: Dragonwilds** using **UE4SS**.
+
+## Features
+
+- ✅ Manual Pickup (Recommended) - **F9**
+- ⚠️ Auto Pickup (Experimental) - **F8**
+- No original game files are modified.
+- Lua only.
+
+## Controls
+
+| Key | Function |
+|------|----------|
+| F9 | Manual Pickup (Recommended) |
+| F8 | Auto Pickup (Experimental) |
+
+## Recommendation
+
+**F9 is the recommended way to use this mod.**
+
+Press **F9** while standing near dropped items.
+
+Although **F8** provides continuous automatic pickup, it may cause noticeable stuttering depending on your PC and the number of nearby items.
+
+## Requirements
+
+- RuneScape: Dragonwilds
+- UE4SS
+
+## Installation
+
+Copy the mod folder to:
+
+```
+Binaries\Win64\ue4ss\Mods\
+```
+
+## Disclaimer
+
+This project does **not** modify any original game files.
+
+This is an unofficial community Quality-of-Life mod and is **not affiliated with Jagex**.
+
+## License
+
+MIT License
