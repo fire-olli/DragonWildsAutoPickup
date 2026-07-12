@@ -7,6 +7,13 @@ A lightweight Quality-of-Life mod for **RuneScape: Dragonwilds** using **UE4SS**
 > ⚠️ **F8 Auto Pickup is experimental and may cause performance stuttering.**
 
 ---
+
+## Screenshot
+
+![게임 화면](./screenshots/DragonwildsAutoPickup-ScreenShot.jpg)
+
+
+
 ## Requirements
 
 - **UE4SS**
@@ -16,7 +23,7 @@ A lightweight Quality-of-Life mod for **RuneScape: Dragonwilds** using **UE4SS**
     **zDEV-UE4SS_v3.0.1-1009-gc2ac2464.zip**
 
 
-Installation
+#Installation
 
 1. Install UE4SS.
 2. Download this repository as ZIP.
@@ -39,23 +46,11 @@ This avoids continuous scanning and provides much smoother gameplay than experim
 
 ## Features
 
-✔ Manual Pickup (Recommended)
-
-✔ Auto Pickup (Experimental)
-
-✔ UE4SS Lua only
-
-✔ No original game files modified
-
-✔ Open Source
-
-
-## Features
-
 - ✅ Manual Pickup (Recommended) - **F9**
 - ⚠️ Auto Pickup (Experimental) - **F8**
+- UE4SS Lua only
 - No original game files are modified.
-- Lua only.
+- Open Source
 
 ## Controls
 
@@ -72,25 +67,7 @@ Press **F9** while standing near dropped items.
 
 Although **F8** provides continuous automatic pickup, it may cause noticeable stuttering depending on your PC and the number of nearby items.
 
-# Fire Olli
 
-## Screenshot
-
-![게임 화면](./screenshots/DragonwildsAutoPickup-ScreenShot.jpg)
-
-
-## Requirements
-
-- RuneScape: Dragonwilds
-- UE4SS
-
-## Installation
-
-Copy the mod folder to:
-
-```
-Binaries\Win64\ue4ss\Mods\
-```
 
 ## Disclaimer
 
