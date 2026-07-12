@@ -8,6 +8,21 @@ A lightweight Quality-of-Life mod for **RuneScape: Dragonwilds** using **UE4SS**
 
 ---
 
+Installation
+
+1. Install UE4SS.
+2. Download this repository as ZIP.
+3. Extract the DragonWildsAutoPickup folder.
+4. Copy it to:
+
+Binaries\Win64\ue4ss\Mods\
+
+5. Launch the game.
+6. Press F9 near dropped items.
+
+
+
+
 ## Why F9?
 
 F9 performs a one-time scan only when requested.
