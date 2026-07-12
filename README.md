@@ -68,7 +68,7 @@ Although **F8** provides continuous automatic pickup, it may cause noticeable st
 
 ## Screenshot
 
-![게임 화면](screenshots/DragonwildsAutoPickup-ScreenShot.jpg)
+![게임 화면](./screenshots/DragonwildsAutoPickup-ScreenShot.jpg)
 
 
 ## Requirements
