@@ -7,6 +7,14 @@ A lightweight Quality-of-Life mod for **RuneScape: Dragonwilds** using **UE4SS**
 > ⚠️ **F8 Auto Pickup is experimental and may cause performance stuttering.**
 
 ---
+## Requirements
+
+- **UE4SS**
+  - Download the latest release from
+    https://github.com/UE4SS-RE/RE-UE4SS/releases
+  - Recommended file:
+    **zDEV-UE4SS_v3.0.1-1009-gc2ac2464.zip**
+
 
 Installation
 
