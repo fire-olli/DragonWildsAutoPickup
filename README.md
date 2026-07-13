@@ -3,6 +3,11 @@
 - ✅ Tested in **Single Player** only.
 - ⚠️ Multiplayer compatibility has not been tested.
 
+## 📥 Download
+
+Download the latest release here:
+
+https://github.com/hopeone76/DragonWildsAutoPickup/releases/latest
 
 
 
